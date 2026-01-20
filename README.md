@@ -89,24 +89,6 @@ Decentralized web scraping platform
 
 ---
 
-## 💼 Professional Experience Highlights
-
-- **Senior Software Engineer @ Rogers Sports & Media**
-  - Go microservices with Kafka, Postgres, Cassandra
-  - High-availability systems used at scale
-  - Mentored engineers & led design discussions
-
-- **Golang AI Code Reviewer @ Mercor**
-  - Reviewed AI-generated Go code
-  - Focus on performance, correctness, idiomatic Go
-
-- **Previous roles**
-  - Distributed systems & DevOps at Scaleway
-  - Auth systems (SAML, OAuth2, OIDC)
-  - Data-intensive backends & infra tooling
-
----
-
 ## 🔍 What I Care About
 
 - Clean, readable, boring (in a good way) code
