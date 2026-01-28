@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Josué Kouka
+# Hi, I’m Josué Kouka
 
-🚀 **Senior Software Engineer / AI Automation Engineer**  
-📍 Vancouver, Canada · 🌍 Remote-friendly  
-💻 Go · Python · Distributed Systems · AI Automation
+**Senior Software Engineer / AI Automation Engineer**  
+Vancouver, Canada · Remote-friendly  
+Go · Python · Distributed Systems · AI Automation
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a backend-focused engineer with **~10 years of experience** building **scalable, production-grade systems** and **AI-powered SaaS products**.
 
@@ -20,7 +20,7 @@ I enjoy working at the intersection of **systems engineering, AI, and business v
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 - Go (primary)
@@ -51,9 +51,9 @@ I enjoy working at the intersection of **systems engineering, AI, and business v
 
 ---
 
-## 🏗️ Things I’ve Built
+## Things I’ve Built
 
-### 🏡 **PropCopy.ai** — Founder
+### **PropCopy.ai** — Founder
 AI-powered SaaS that helps realtors generate **SEO-optimized property descriptions from photos**
 
 - Go + HTMX full-stack app
@@ -66,7 +66,7 @@ AI-powered SaaS that helps realtors generate **SEO-optimized property descriptio
 
 ---
 
-### 🤖 **PromptRefiner**
+### **PromptRefiner**
 High-performance SaaS for **AI prompt optimization**
 
 - Go + HTMX (server-rendered, ultra-fast)
@@ -77,7 +77,7 @@ High-performance SaaS for **AI prompt optimization**
 
 ---
 
-### 🌐 **Scrapions**
+### **Scrapions**
 Decentralized web scraping platform
 
 - libp2p peer-to-peer task distribution
@@ -89,7 +89,7 @@ Decentralized web scraping platform
 
 ---
 
-## 🔍 What I Care About
+## What I Care About
 
 - Clean, readable, boring (in a good way) code
 - Strong system design fundamentals
@@ -99,13 +99,12 @@ Decentralized web scraping platform
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/josuekouka  
-- 🧑‍💻 GitHub: https://github.com/josuebrunel  
-- ✉️ Email: josuebrunel@gmail.com  
+- LinkedIn: https://linkedin.com/in/josuekouka  
+- GitHub: https://github.com/josuebrunel  
+- Email: josuebrunel@gmail.com  
 
 ---
 
 > *“Make it work. Make it right. Make it scale.”*
-
