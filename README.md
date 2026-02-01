@@ -22,70 +22,18 @@ I enjoy working at the intersection of **systems engineering, AI, and business v
 
 ## Tech Stack
 
-**Languages**
-- Go (primary)
-- Python
-- JavaScript / HTMX
-- SQL
-- Some Ruby (legacy & infra tools)
-
-**Backend & Data**
-- Microservices, REST & GraphQL
-- PostgreSQL, Cassandra, Redis
-- Kafka, Pub/Sub systems
-- ETL & data pipelines
-
-**AI / Automation**
-- LLMs (Gemini, Gemma)
-- LangChain-Go
-- Prompt engineering
-- AI workflows & agents
-- n8n, Ollama
-
-**Infra / DevOps**
-- Docker, Kubernetes
-- CI/CD (GitHub Actions, GitLab CI)
-- Linux
-- Cloud: AWS, GCP, Azure
-- Terraform / Ansible (when needed)
+- **Languages**: Go, Python, JavaScript / HTMX, SQL, Ruby (legacy)
+- **Backend & Data**: Microservices, REST & GraphQL, PostgreSQL, Cassandra, Redis, Kafka, Pub/Sub, ETL
+- **AI / Automation**: LLMs (Gemini, Gemma), LangChain-Go, Prompt engineering, AI workflows & agents, n8n, Ollama
+- **Infra / DevOps**: Docker, Kubernetes, CI/CD, Linux, Cloud (AWS, GCP, Azure), Terraform, Ansible
 
 ---
 
 ## Things I’ve Built
 
-### **PropCopy.ai** — Founder
-AI-powered SaaS that helps realtors generate **SEO-optimized property descriptions from photos**
-
-- Go + HTMX full-stack app
-- Multimodal LLM image analysis
-- Stripe subscriptions
-- Cloud image storage + thumbnails
-- Built for speed, UX, and monetization
-
-🔗 https://propcopy.ai
-
----
-
-### **PromptRefiner**
-High-performance SaaS for **AI prompt optimization**
-
-- Go + HTMX (server-rendered, ultra-fast)
-- LangChain-Go + Gemma
-- Minimalist UI, instant feedback loop
-
-🔗 https://promptrefiner.onrender.com
-
----
-
-### **Scrapions**
-Decentralized web scraping platform
-
-- libp2p peer-to-peer task distribution
-- Ethereum smart contract for escrow-based payments
-- Headless Chrome scraping agents
-- Pub/Sub architecture
-
-🔗 https://scrapions.xyz
+- [**PropCopy.ai**](https://propcopy.ai) — AI-powered SaaS generating SEO-optimized property descriptions from photos. (Go, HTMX, Multimodal LLM, Stripe)
+- [**PromptRefiner**](https://promptrefiner.onrender.com) — High-performance SaaS for AI prompt optimization. (Go, HTMX, LangChain-Go, Gemma)
+- [**Scrapions**](https://scrapions.xyz) — Decentralized web scraping platform. (libp2p, Ethereum, Headless Chrome)
 
 ---
 
@@ -103,7 +51,6 @@ Decentralized web scraping platform
 
 - LinkedIn: https://linkedin.com/in/josuekouka  
 - GitHub: https://github.com/josuebrunel  
-- Email: josuebrunel@gmail.com  
 
 ---
 
