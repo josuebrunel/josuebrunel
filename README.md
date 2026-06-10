@@ -31,6 +31,7 @@ I enjoy working at the intersection of **systems engineering, AI, and business v
 
 ## Things I’ve Built
 
+- [**TrialAbuse.com**](https://trialabuse.com) — Real-time fraud detection SaaS stopping free trial abuse and bonus fraud syndicates, with a 150+ signal detection engine delivering verdicts in under 70ms. (Go, Kubernetes, GCP, Redis, PostgreSQL, Stripe)
 - [**PropCopy.ai**](https://propcopy.ai) — AI-powered SaaS generating SEO-optimized property descriptions from photos. (Go, HTMX, Multimodal LLM, Stripe)
 - [**PromptRefiner**](https://promptrefiner.onrender.com) — High-performance SaaS for AI prompt optimization. (Go, HTMX, LangChain-Go, Gemma)
 - [**Scrapions**](https://scrapions.xyz) — Decentralized web scraping platform. (libp2p, Ethereum, Headless Chrome)
