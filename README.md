@@ -14,7 +14,7 @@ I specialize in:
 - **Golang-first backend systems** (microservices, data pipelines, infra tooling)
 - **AI & automation** using LLMs (Gemini, Gemma, LangChain-Go, n8n)
 - **Product-minded engineering** — shipping fast, clean, and reliable software
-- **Founding & building Micro-SaaS** from 0 → production → monetization
+- **Founding & building Micro-SaaS & self-hosted tools** from 0 → production → monetization
 
 I enjoy working at the intersection of **systems engineering, AI, and business value**.
 
@@ -23,6 +23,7 @@ I enjoy working at the intersection of **systems engineering, AI, and business v
 ## Tech Stack
 
 - **Languages**: Go, Python, JavaScript / HTMX, SQL, Ruby (legacy)
+- **Web Frameworks**: Echo, Templ, HTMX, RiverQueue (job queues), Goose (migrations)
 - **Backend & Data**: Microservices, REST & GraphQL, PostgreSQL, Cassandra, Redis, Kafka, Pub/Sub, ETL
 - **AI / Automation**: LLMs (Gemini, Gemma), LangChain-Go, Prompt engineering, AI workflows & agents, n8n, Ollama
 - **Infra / DevOps**: Docker, Kubernetes, CI/CD, Linux, Cloud (AWS, GCP, Azure), Terraform, Ansible
@@ -35,6 +36,7 @@ I enjoy working at the intersection of **systems engineering, AI, and business v
 - [**PropCopy.ai**](https://propcopy.ai) — AI-powered SaaS generating SEO-optimized property descriptions from photos. (Go, HTMX, Multimodal LLM, Stripe)
 - [**PromptRefiner**](https://promptrefiner.onrender.com) — High-performance SaaS for AI prompt optimization. (Go, HTMX, LangChain-Go, Gemma)
 - [**Scrapions**](https://scrapions.xyz) — Decentralized web scraping platform. (libp2p, Ethereum, Headless Chrome)
+- [**Nutmeg**](https://nutmegs.cc) — Self-hosted stats tracker for pickup soccer groups, with an AI sports desk that writes satirical match reports and player roasts from real stats. (Go, Echo, Templ, HTMX, PostgreSQL, RiverQueue)
 
 ---
 
